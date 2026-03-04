@@ -8,6 +8,6 @@ jobs:
       contents: write
     with:
       keymap_patterns: "config/*.keymap"
-      config_path: "keymap_drawer.config.yaml"
+      config_path: "draw-keymaps.yml"
       output_folder: "docs/images"
       amend_commit: false
