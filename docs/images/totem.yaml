@@ -196,9 +196,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
-- p: [4, 5]
-  k: '&alt_shift'
-  l: [base]
 - p: [21, 23]
   k: Ctl+Sft+C
   l: [base]
