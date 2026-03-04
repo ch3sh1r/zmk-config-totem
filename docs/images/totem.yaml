@@ -66,18 +66,18 @@ layers:
   - Ctl+C
   - Ctl+V
   - PSCRN
+  - F6
   - F7
   - F8
   - F9
   - F10
   - F11
-  - F12
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DEL
-  - {t: ▽, type: trans}
+  - F12
   nav:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
