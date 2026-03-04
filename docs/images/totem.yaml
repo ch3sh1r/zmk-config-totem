@@ -104,7 +104,7 @@ layers:
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
-  - {t: ▽, type: trans}
+  - {t: BT, h: '3'}
   - PG UP
   - PG DN
   - HOME
