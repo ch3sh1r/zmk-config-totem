@@ -1,2 +1,6 @@
 draw_config:
-  draw_combos: false  # This hides all combos from the generated image
+  # Move all combos to their own mini-diagrams at the bottom
+  separate_combo_diagrams: true
+  
+  # How much smaller the combo mini-diagrams should be (default is 2)
+  combo_diagrams_scale: 2
