@@ -1,4 +1,2 @@
-combos:
-  opacity: 0.3
-  stroke-width: 1
-
+draw_config:
+  draw_combos: false  # This hides all combos from the generated image
