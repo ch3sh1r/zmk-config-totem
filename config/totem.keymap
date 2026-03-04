@@ -45,12 +45,6 @@
     combos {
         compatible = "zmk,combos";
 
-        combo_layout_switch {
-            key-positions = <4 5>;
-            bindings = <&alt_shift>;
-            layers = <0>;
-        };
-
         combo_term_copy {
             key-positions = <21 23>;
             bindings = <&kp LC(LS(C))>;
