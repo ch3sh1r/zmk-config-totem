@@ -1,11 +1,5 @@
 name: Draw ZMK keymaps
-on:
-  workflow_dispatch:
-  push:
-    paths:
-      - "config/*.keymap"
-      - "config/*.dtsi"
-      - "keymap_drawer.config.yaml"
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   draw:
@@ -15,5 +9,5 @@ jobs:
     with:
       keymap_patterns: "config/*.keymap"
       config_path: "keymap_drawer.config.yaml"
-      output_folder: "/docs/images"
+      output_folder: "docs/images"
       amend_commit: false
