@@ -4,7 +4,7 @@
   <img alt="TOTEM logo font" src="/docs/images/TOTEM_logo_bright.svg">
 </picture>
 
-# ZMK CONFIG FOR THE TOTEM SPLIT KEYBOARD
+# ZMK config for the TOTEM split keyboard
 
 TOTEM is a 38 key column-staggered split keyboard running [ZMK](https://zmk.dev/) or [QMK](https://docs.qmk.fm/). It's meant to be used with a SEEED XIAO BLE or RP2040.
 
