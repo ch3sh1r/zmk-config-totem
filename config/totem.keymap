@@ -159,8 +159,8 @@
             layers = <0>;
         };
 
-        combo_excl {
-            bindings = <&kp EXCL>;
+        combo_percent {
+            bindings = <&kp PERCENT>;
             key-positions = <23 28>;
             layers = <0>;
         };
