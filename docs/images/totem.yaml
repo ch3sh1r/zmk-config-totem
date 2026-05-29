@@ -17,7 +17,7 @@ layers:
   - {t: F, h: LSHIFT}
   - G
   - H
-  - {t: J, h: RSHIFT}
+  - {t: J, h: RSHFT}
   - {t: K, h: RCTRL}
   - {t: L, h: RALT}
   - ;
@@ -104,7 +104,7 @@ layers:
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
-  - {t: BT, h: '3'}
+  - {t: BT, h: '4'}
   - PG UP
   - PG DN
   - HOME
