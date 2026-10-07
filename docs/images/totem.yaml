@@ -65,14 +65,14 @@ layers:
   - Ctl+X
   - Ctl+C
   - Ctl+V
-  - PSCRN
+  - Ctl+B
   - F6
   - F7
   - F8
   - F9
   - F10
   - F11
-  - {t: ▽, type: trans}
+  - PSCRN
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
